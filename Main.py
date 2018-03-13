@@ -8,6 +8,7 @@ import plotly.plotly as py
 import seaborn as sns
 import numpy as np
 import json as jsn
+import utils as utl
 from sklearn import preprocessing as pre
 
 
@@ -71,34 +72,6 @@ sessionsBuy = []
 buyPerSessionLength = {}
 noBuyPerSessionLength={}
 
-def convertDateToString(o):
-    if isinstance(o, datetime.datetime):
-        return o.__str__()
-
-def writeDictToFile(dict, fileName):
-    json = jsn.dumps(dict, default=convertDateToString, separators=['\n',':'])
-    f = open( fileName , "w")
-    f.write(json)
-    f.close()
-
-
-def writeMonthDataToFile(sessions, accumulated_data, month):
-    writeDictToFile(sessions,"sessions_"+month)
-    writeDictToFile(accumulated_data, "accumulated_"+month)
-
-def extractSessionsFeatures(sessions):
-    for session in sessions:
-        extractSessionFeatures(session)
-
-# session features: sessions length, buy(binary),
-def extractSessionFeatures(session):
-    pass
-
-
-def extractSessionCorrelation(sessions):
-    pass
-
-writeMonthDataToFile(sessions,accumulated_data, "04")
 
 
 
@@ -116,9 +89,7 @@ for session in sessions:
         else:
             buyPerSessionLength[session_length] += 1
 
-
-correlation_matrix=extractSessionCorrelation(sessions)
-
+utl.writeMonthDataToFile(sessions,accumulated_data, "04")
 #plotDictDistribution(sessionsLength,"session length distribution", "session length", "number of session")
 #plotBuyRate(buyPerSessionLength,sessionsLength,"buy rate","session length","buy rate")
 

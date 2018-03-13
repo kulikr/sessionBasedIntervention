@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f03f26-e858-47e4-b154-3f6d6b8da6db" name="Default" comment="" />
+    <list default="true" id="d1f03f26-e858-47e4-b154-3f6d6b8da6db" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/evaluation.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/utils.py" />
+      <change beforePath="$PROJECT_DIR$" afterPath="$PROJECT_DIR$" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+      <change beforePath="$PROJECT_DIR$/pip-selfcheck.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py" afterPath="$PROJECT_DIR$/PreProcess_ExtractEvents.py" />
+      <change beforePath="$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py" afterPath="$PROJECT_DIR$/PreProcess_ExtractSessions.py" />
+      <change beforePath="$PROJECT_DIR$/venv/test.py" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +21,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/thesisProject$Main.coverage" NAME="Main Coverage Results" MODIFIED="1520852602840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sessionBasedIntervention$Main.coverage" NAME="Main Coverage Results" MODIFIED="1520264704615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/sessionBasedIntervention$Unnamed.coverage" NAME="Main Coverage Results" MODIFIED="1515603929260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#395#526#0" expanded="false" />
+                <element signature="e#581#753#0" expanded="false" />
+                <element signature="e#814#992#0" expanded="false" />
+                <element signature="e#1051#1323#0" expanded="false" />
+                <element signature="e#1771#2164#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sessionBasedIntervention/venv/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7750">
+              <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreProcess_ExtractSessions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#865#975#0" expanded="false" />
+                <element signature="e#4312#4723#0" expanded="false" />
+                <element signature="e#4883#5186#0" expanded="false" />
+                <element signature="e#5243#5443#0" expanded="false" />
+                <element signature="e#5510#6207#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/evaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreProcess_ExtractEvents.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="37" column="56" lean-forward="false" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#63#126#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +145,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,10 +153,14 @@
         <option value="$PROJECT_DIR$/venv/PreProcess.py" />
         <option value="$PROJECT_DIR$/venv/PreProcess_ExtractSession.py" />
         <option value="$PROJECT_DIR$/dict.json" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py" />
         <option value="$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py" />
         <option value="$PROJECT_DIR$/venv/test.py" />
+        <option value="$PROJECT_DIR$/venv/tcl/utils.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/PreProcess_ExtractSessions.py" />
+        <option value="$PROJECT_DIR$/evaluation.py" />
       </list>
     </option>
   </component>
@@ -77,8 +170,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="40" />
+    <option name="y" value="94" />
     <option name="width" value="1934" />
     <option name="height" value="1030" />
   </component>
@@ -103,8 +197,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="sessionBasedIntervention" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sessionBasedIntervention" type="462c0819:PsiDirectoryNode" />
+              <item name="thesisProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesisProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesisProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesisProject" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,10 +214,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/לימודים/סמסטר ז/Machine Learning/ML_Assignment2/ML_Assignment2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/royku/PycharmProjects/sessionBasedIntervention/venv/PreProcess_ExtractEvents.py" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\royku\PycharmProjects\thesisProject" />
+      <recent name="C:\Users\royku\PycharmProjects\thesisProject\venv\tcl" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,32 +286,40 @@
       <option name="project" value="LOCAL" />
       <updated>1520846607163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First project commit">
+      <created>1520949302770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520949302770</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1934" height="1030" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39908257" sideWeight="0.16875" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.037844036" sideWeight="0.16875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.051041666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08645833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4457143" sideWeight="0.83125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44534883" sideWeight="0.83125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32906976" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -278,18 +391,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Main.py</url>
-          <line>46</line>
+          <line>47</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Main.py</url>
-          <line>52</line>
+          <line>53</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py</url>
-          <line>43</line>
+          <url>file://$PROJECT_DIR$/PreProcess_ExtractSessions.py</url>
+          <line>42</line>
           <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -299,7 +417,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="111" />
+      <option name="time" value="113" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -363,31 +481,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accumulated_04">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="33" lean-forward="true" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buy rate.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session length distribution.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6820">
-          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sessions_04">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="308">
@@ -395,29 +488,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1122">
           <caret line="53" column="15" lean-forward="false" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1562">
           <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -427,22 +515,21 @@
         <state relative-caret-position="484">
           <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="31" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -451,39 +538,35 @@
         <state relative-caret-position="420">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -492,39 +575,35 @@
         <state relative-caret-position="420">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -533,39 +612,35 @@
         <state relative-caret-position="420">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="62" column="43" lean-forward="false" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -574,39 +649,35 @@
         <state relative-caret-position="420">
           <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="66" column="10" lean-forward="false" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="41" column="33" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -615,55 +686,48 @@
         <state relative-caret-position="245">
           <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1925">
           <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -673,22 +737,21 @@
         <state relative-caret-position="1015">
           <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,39 +760,35 @@
         <state relative-caret-position="245">
           <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="910">
           <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -738,39 +797,35 @@
         <state relative-caret-position="224">
           <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
           <caret line="45" column="29" lean-forward="true" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -781,19 +836,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1452">
           <caret line="44" column="135" lean-forward="false" selection-start-line="44" selection-start-column="135" selection-end-line="44" selection-end-column="135" />
           <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -803,11 +855,12 @@
         <state relative-caret-position="462">
           <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -856,15 +909,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dict.json" />
     <entry file="file://$PROJECT_DIR$/sessions_04">
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -878,11 +930,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/test.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,47 +941,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/tcl/utils.py" />
+    <entry file="file://$PROJECT_DIR$/../sessionBasedIntervention/venv/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7750">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractEvents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="37" column="56" lean-forward="false" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#63#126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreProcess_ExtractSessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#865#975#0" expanded="false" />
+            <element signature="e#4312#4723#0" expanded="false" />
+            <element signature="e#4883#5186#0" expanded="false" />
+            <element signature="e#5243#5443#0" expanded="false" />
+            <element signature="e#5510#6207#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="78" column="75" lean-forward="false" selection-start-line="78" selection-start-column="75" selection-end-line="78" selection-end-column="75" />
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
-            <element signature="e#375#506#0" expanded="false" />
-            <element signature="e#561#733#0" expanded="false" />
-            <element signature="e#794#972#0" expanded="false" />
-            <element signature="e#1031#1303#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractSessions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="87" column="44" lean-forward="false" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-            <element signature="e#220#3138#0" expanded="false" />
-            <element signature="e#3283#4212#0" expanded="false" />
-            <element signature="e#4363#4472#0" expanded="false" />
-            <element signature="e#4626#4995#0" expanded="false" />
-            <element signature="e#5151#5579#0" expanded="false" />
-            <element signature="e#5635#5835#0" expanded="false" />
-            <element signature="e#5899#6585#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PreProcess_ExtractEvents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="37" column="56" lean-forward="false" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#395#526#0" expanded="false" />
+            <element signature="e#581#753#0" expanded="false" />
+            <element signature="e#814#992#0" expanded="false" />
+            <element signature="e#1051#1323#0" expanded="false" />
+            <element signature="e#1771#2164#0" expanded="false" />
           </folding>
         </state>
       </provider>
